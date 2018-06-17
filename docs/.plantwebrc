@@ -1,0 +1,6 @@
+{
+    "cache_dir": "~/.cache/plantweb",
+    "engine": "plantuml",
+    "format": "svg",
+    "use_cache": true
+}
