@@ -1,5 +1,5 @@
-PROJ Stakeholder Requirements Specification
-###########################################
+Stakeholder Requirements Specification (StRS)
+#############################################
 
 .. Automatic section numbering : # * = - ^ "
 

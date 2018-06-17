@@ -11,8 +11,18 @@ Welcome to SWPLM 29110-5-6-2 Templates's documentation!
    :maxdepth: 3
    :caption: Contents:
 
-   Stakeholder Requirements Specification (StRS) </PROJ-StRS.rst>
-   Data Model </PROJ-DataModel.rst>
+   PROJ-SoW
+   PROJ-StRS
+   PROJ-DataModel
+   PROJ-PurchaseOrder
+   PROJ-ProgressStatusRecord
+   PROJ-ChangeRequest
+   PROJ-Justification
+   PROJ-CorrectionRegister
+   PROJ-TraceMatrix
+   PROJ-VerificationReport
+   PROJ-ValidationReport
+   PROJ-ProductAcceptance
 
 
 Indices and tables

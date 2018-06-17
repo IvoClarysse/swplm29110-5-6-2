@@ -1,5 +1,5 @@
-PROJ System Training Specification
-##################################
+Project Data Model
+##################
 
 .. Automatic section numbering : # * = - ^ "
 
