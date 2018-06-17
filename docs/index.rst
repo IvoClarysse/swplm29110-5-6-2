@@ -19,6 +19,7 @@ Welcome to SWPLM 29110-5-6-2 Templates's documentation!
    PROJ-SDD
    PROJ-SysRS
    PROJ-SERS-SYSEL
+   PROJ-BLE-Protocol.rst
    PROJ-PurchaseOrder
    PROJ-ProgressStatusRecord
    PROJ-ChangeRequest
