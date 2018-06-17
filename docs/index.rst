@@ -10,7 +10,8 @@ Welcome to SWPLM 29110-5-6-2 Templates's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   PROJ-StRS </PROJ-StRS.rst>
+   Stakeholder Requirements Specification (StRS) </PROJ-StRS.rst>
+   Data Model </PROJ-DataModel.rst>
 
 
 Indices and tables
