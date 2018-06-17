@@ -10,7 +10,7 @@ Welcome to SWPLM 29110-5-6-2 Templates's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   PROJ-StRS
+   PROJ-StRS </PROJ-StRS.rst>
 
 
 Indices and tables
