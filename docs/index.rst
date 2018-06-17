@@ -7,7 +7,8 @@ Welcome to SWPLM 29110-5-6-2 Templates's documentation!
 =======================================================
 
 .. toctree::
-   :maxdepth: 2
+   :numbered:
+   :maxdepth: 3
    :caption: Contents:
 
    Stakeholder Requirements Specification (StRS) </PROJ-StRS.rst>

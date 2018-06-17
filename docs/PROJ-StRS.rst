@@ -1,9 +1,6 @@
 PROJ Stakeholder Requirements Specification
 ###########################################
 
-.. sectnum::
-.. contents::
-
 .. Automatic section numbering : # * = - ^ "
 
 Document status:

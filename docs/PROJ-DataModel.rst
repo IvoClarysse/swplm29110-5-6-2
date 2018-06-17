@@ -1,9 +1,6 @@
 PROJ System Training Specification
 ##################################
 
-.. sectnum::
-.. contents::
-
 .. Automatic section numbering : # * = - ^ "
 
 Document status:
