@@ -36,6 +36,8 @@ Welcome to SWPLM 29110-5-6-2 Templates's documentation!
    PROJ-UserManual
    PROJ-Training
    PROJ-ProductAcceptance
+   iso29110-5-6-2-PM
+   iso29110-5-6-2-SR
 
 
 Indices and tables
