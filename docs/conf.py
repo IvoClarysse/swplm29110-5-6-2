@@ -41,6 +41,7 @@ release = 'Draft'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.imgmath',
+    'sphinxcontrib.plantuml',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

@@ -32,7 +32,46 @@ Statement of Work (SOW)
 Project Plan
 ------------
 
-![Project Plan status diagram](PROJ-ProjectPlan-state.png "Project Plan")
+Project Plan status diagram:
+
+.. uml::
+
+   @startuml
+   ' PlantUML state diagram
+   ' 29910-5-6_2 Project Plan status transitions
+
+   '!include style.pinc
+   skinparam handwritten false
+   
+   ' PM1.15
+   [*] -> initial : Integrate
+   initial : PJM
+   
+   ' PM1.16
+   initial -> verified : Verify
+   verified : PJM
+   verified : WT
+   
+   ' PM1.17
+   verified -> accepted : Acceptance
+   accepted : PJM
+   accepted : ACQ
+   accepted : STK
+   
+   ' PM2.4
+   accepted -> updated : STK meetings
+   updated : PJM
+   updated : WT
+   updated : ACQ
+   updated : STK
+   reviewed -> updated : STK meetings
+   
+   ' SR1.1
+   updated -> reviewed : Revise
+   reviewed: PJM
+   reviewed: WT
+   
+   @enduml
 
 ![Project Plan actions](PROJ-ProjectPlan-actions.png "Project Plan")
 
